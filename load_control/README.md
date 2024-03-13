@@ -10,7 +10,7 @@ by adding `load_control` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:load_control, "~> 0.1.0"}
+    {:load_control, "~> 0.1.1"}
   ]
 end
 ```
